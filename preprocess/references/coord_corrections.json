@@ -1,0 +1,1477 @@
+{
+  "CEN19WA197": {
+    "latitude": 45.45,
+    "longitude": -73.079167,
+    "note": "lon_flip (was 45.45,73.0792)"
+  },
+  "GAA19WA356": {
+    "latitude": 47.200278,
+    "longitude": -70.240277,
+    "note": "lon_flip (was 47.2003,70.2403)"
+  },
+  "GAA19WA308": {
+    "latitude": -11.414722,
+    "longitude": -37.364167,
+    "note": "both_flip (was 11.4147,37.3642)"
+  },
+  "GAA19WA275": {
+    "latitude": -20.496111,
+    "longitude": -54.513611,
+    "note": "both_flip (was 20.4961,54.5136)"
+  },
+  "GAA19WA254": {
+    "latitude": 6.224445,
+    "longitude": -75.180278,
+    "note": "lon_flip (was 6.2244,75.1803)"
+  },
+  "GAA19WA274": {
+    "latitude": 19.578334,
+    "longitude": -99.284166,
+    "note": "lon_flip (was 19.5783,99.2842)"
+  },
+  "GAA19WA188": {
+    "latitude": 50.588333,
+    "longitude": -95.099444,
+    "note": "lon_flip (was 50.5883,95.0994)"
+  },
+  "CEN19WA105": {
+    "latitude": 9.981389,
+    "longitude": -85.268611,
+    "note": "lon_flip (was 9.9814,85.2686)"
+  },
+  "CEN19WA081": {
+    "latitude": 19.935277,
+    "longitude": -99.485555,
+    "note": "lon_flip (was 19.9353,99.4856)"
+  },
+  "CEN19WA079": {
+    "latitude": 24.170556,
+    "longitude": -104.900556,
+    "note": "lon_flip (was 24.1706,104.9006)"
+  },
+  "CEN19WA077": {
+    "latitude": 30.359722,
+    "longitude": -108.925278,
+    "note": "lon_flip (was 30.3597,108.9253)"
+  },
+  "CEN19WA040": {
+    "latitude": 24.845,
+    "longitude": -107.430556,
+    "note": "lon_flip (was 24.845,107.4306)"
+  },
+  "CEN18WA353": {
+    "latitude": 10.398611,
+    "longitude": -84.641666,
+    "note": "lon_flip (was 10.3986,84.6417)"
+  },
+  "DCA18CA252": {
+    "latitude": 43.078056,
+    "longitude": -70.823334,
+    "note": "lon_flip (was 43.0781,70.8233)"
+  },
+  "CEN18WA187": {
+    "latitude": 14.061667,
+    "longitude": -87.216945,
+    "note": "lon_flip (was 14.0617,87.2169)"
+  },
+  "CEN18FA186": {
+    "latitude": 37.61,
+    "longitude": -93.41,
+    "note": "lon_flip (was 37.61,93.41)"
+  },
+  "CEN18WA169": {
+    "latitude": 53.264722,
+    "longitude": -7.185277,
+    "note": "lon_flip (was 53.2647,7.1853)"
+  },
+  "CEN18LA142": {
+    "latitude": 38.805833,
+    "longitude": -104.700833,
+    "note": "lon_flip (was 38.8058,104.7008)"
+  },
+  "CEN18FA132B": {
+    "latitude": 40.490833,
+    "longitude": -85.679723,
+    "note": "lon_flip (was 40.4908,85.6797)"
+  },
+  "CEN18FA132A": {
+    "latitude": 40.490833,
+    "longitude": -85.679723,
+    "note": "lon_flip (was 40.4908,85.6797)"
+  },
+  "WPR18LA111": {
+    "latitude": 46.155,
+    "longitude": -123.2375,
+    "note": "lon_flip (was 46.155,123.2375)"
+  },
+  "CEN18LA118": {
+    "latitude": 31.0,
+    "longitude": -97.0,
+    "note": "lon_flip (was 31.0,97.0)"
+  },
+  "CEN18LA062": {
+    "latitude": 41.695277,
+    "longitude": -86.825556,
+    "note": "lon_flip (was 41.6953,86.8256)"
+  },
+  "CEN18WA005": {
+    "latitude": 18.673056,
+    "longitude": -103.885,
+    "note": "lon_flip (was 18.6731,103.885)"
+  },
+  "CEN17LA323": {
+    "latitude": 40.9,
+    "longitude": -82.26,
+    "note": "lon_flip (was 40.9,82.26)"
+  },
+  "CEN17WA289": {
+    "latitude": 24.758611,
+    "longitude": -107.471389,
+    "note": "lon_flip (was 24.7586,107.4714)"
+  },
+  "CEN17WA296": {
+    "latitude": 16.113333,
+    "longitude": -86.780278,
+    "note": "lon_flip (was 16.1133,86.7803)"
+  },
+  "CEN17LA226": {
+    "latitude": 36.011944,
+    "longitude": -102.642222,
+    "note": "lon_flip (was 36.0119,102.6422)"
+  },
+  "DCA17CA123": {
+    "latitude": 31.135277,
+    "longitude": -93.604722,
+    "note": "lon_flip (was 31.1353,93.6047)"
+  },
+  "CEN17LA179": {
+    "latitude": 32.634722,
+    "longitude": -97.913889,
+    "note": "lon_flip (was 32.6347,97.9139)"
+  },
+  "CEN17LA178": {
+    "latitude": 44.164722,
+    "longitude": -86.360556,
+    "note": "lon_flip (was 44.1647,86.3606)"
+  },
+  "CEN17FA139": {
+    "latitude": 30.229445,
+    "longitude": -98.655278,
+    "note": "lon_flip (was 30.2294,98.6553)"
+  },
+  "CEN17WA137B": {
+    "latitude": 45.505556,
+    "longitude": -73.378056,
+    "note": "lon_flip (was 45.5056,73.3781)"
+  },
+  "CEN17WA137A": {
+    "latitude": 45.505556,
+    "longitude": -73.378056,
+    "note": "lon_flip (was 45.5056,73.3781)"
+  },
+  "DCA17CA087": {
+    "latitude": 33.942777,
+    "longitude": -118.409167,
+    "note": "lon_flip (was 33.9428,118.4092)"
+  },
+  "CEN17FA112": {
+    "latitude": 29.310278,
+    "longitude": -90.546389,
+    "note": "lon_flip (was 29.3103,90.5464)"
+  },
+  "CEN17FA080": {
+    "latitude": 34.836389,
+    "longitude": -100.198333,
+    "note": "lon_flip (was 34.8364,100.1983)"
+  },
+  "CEN17FA071": {
+    "latitude": 33.899444,
+    "longitude": -93.037222,
+    "note": "lon_flip (was 33.8994,93.0372)"
+  },
+  "CEN16LA249": {
+    "latitude": 28.613056,
+    "longitude": -96.625556,
+    "note": "lon_flip (was 28.6131,96.6256)"
+  },
+  "DCA16CA094B": {
+    "latitude": 42.2075,
+    "longitude": -83.351944,
+    "note": "lon_flip (was 42.2075,83.3519)"
+  },
+  "DCA16CA094A": {
+    "latitude": 42.2075,
+    "longitude": -83.351944,
+    "note": "lon_flip (was 42.2075,83.3519)"
+  },
+  "CEN16LA079": {
+    "latitude": 37.138055,
+    "longitude": -93.408056,
+    "note": "lon_flip (was 37.1381,93.4081)"
+  },
+  "CEN16WA081": {
+    "latitude": 38.725,
+    "longitude": -9.355,
+    "note": "swap_lonneg (was 9.355,38.725)"
+  },
+  "CEN16LA052": {
+    "latitude": 41.977223,
+    "longitude": -87.908056,
+    "note": "lon_flip (was 41.9772,87.9081)"
+  },
+  "CEN16LA030": {
+    "latitude": 35.189166,
+    "longitude": -106.576389,
+    "note": "lon_flip (was 35.1892,106.5764)"
+  },
+  "CEN16WA010": {
+    "latitude": 11.420556,
+    "longitude": -85.886666,
+    "note": "lon_flip (was 11.4206,85.8867)"
+  },
+  "CEN15LA433": {
+    "latitude": 41.021667,
+    "longitude": -85.158333,
+    "note": "lon_flip (was 41.0217,85.1583)"
+  },
+  "CEN15LA439": {
+    "latitude": 27.752222,
+    "longitude": -98.069723,
+    "note": "lon_flip (was 27.7522,98.0697)"
+  },
+  "CEN15FA388": {
+    "latitude": 39.253611,
+    "longitude": -87.798333,
+    "note": "lon_flip (was 39.2536,87.7983)"
+  },
+  "ERA15WA347": {
+    "latitude": -12.133889,
+    "longitude": -76.921111,
+    "note": "both_flip (was 12.1339,76.9211)"
+  },
+  "CEN15LA355": {
+    "latitude": 32.445277,
+    "longitude": -97.691389,
+    "note": "lon_flip (was 32.4453,97.6914)"
+  },
+  "CEN15LA329": {
+    "latitude": 33.159722,
+    "longitude": -95.621111,
+    "note": "lon_flip (was 33.1597,95.6211)"
+  },
+  "ANC15CA055": {
+    "latitude": 61.852778,
+    "longitude": -151.408333,
+    "note": "lon_flip (was 61.8528,151.4083)"
+  },
+  "CEN15LA286": {
+    "latitude": 32.69,
+    "longitude": -96.51,
+    "note": "lon_flip (was 32.69,96.51)"
+  },
+  "CEN15FA277": {
+    "latitude": 36.424167,
+    "longitude": -105.673889,
+    "note": "lon_flip (was 36.4242,105.6739)"
+  },
+  "ERA15CA243": {
+    "latitude": 31.233334,
+    "longitude": -84.75,
+    "note": "lon_flip (was 31.2333,84.75)"
+  },
+  "CEN15LA276": {
+    "latitude": 30.354722,
+    "longitude": -92.265833,
+    "note": "lon_flip (was 30.3547,92.2658)"
+  },
+  "CEN15LA295": {
+    "latitude": 38.447222,
+    "longitude": -107.642222,
+    "note": "lon_flip (was 38.4472,107.6422)"
+  },
+  "CEN15LA250": {
+    "latitude": 41.1525,
+    "longitude": -104.134722,
+    "note": "lon_flip (was 41.1525,104.1347)"
+  },
+  "CEN15FA240": {
+    "latitude": 37.948333,
+    "longitude": -101.714444,
+    "note": "lon_flip (was 37.9483,101.7144)"
+  },
+  "CEN15WA254": {
+    "latitude": 52.546944,
+    "longitude": -6.809722,
+    "note": "lon_flip (was 52.5469,6.8097)"
+  },
+  "ERA15CA229": {
+    "latitude": 36.0,
+    "longitude": -86.0,
+    "note": "lon_flip (was 36.0,86.0)"
+  },
+  "GAA15CA081": {
+    "latitude": 34.488611,
+    "longitude": -80.956111,
+    "note": "lon_flip (was 34.4886,80.9561)"
+  },
+  "ANC15CA026": {
+    "latitude": 62.1375,
+    "longitude": -150.244166,
+    "note": "lon_flip (was 62.1375,150.2442)"
+  },
+  "GAA15CA103": {
+    "latitude": 46.856111,
+    "longitude": -99.916667,
+    "note": "lon_flip (was 46.8561,99.9167)"
+  },
+  "CEN15LA224": {
+    "latitude": 33.130834,
+    "longitude": -97.207222,
+    "note": "lon_flip (was 33.1308,97.2072)"
+  },
+  "CEN15LA235": {
+    "latitude": 43.209167,
+    "longitude": -85.964722,
+    "note": "lon_flip (was 43.2092,85.9647)"
+  },
+  "CEN15WA178": {
+    "latitude": 45.998611,
+    "longitude": -80.800833,
+    "note": "lon_flip (was 45.9986,80.8008)"
+  },
+  "CEN15FA087": {
+    "latitude": 42.9225,
+    "longitude": -82.526667,
+    "note": "lon_flip (was 42.9225,82.5267)"
+  },
+  "ERA15CA080": {
+    "latitude": 38.052778,
+    "longitude": -77.725,
+    "note": "lon_flip (was 38.0528,77.725)"
+  },
+  "WPR15CA063": {
+    "latitude": 38.281667,
+    "longitude": -111.626945,
+    "note": "lon_flip (was 38.2817,111.6269)"
+  },
+  "CEN15LA084": {
+    "latitude": 40.119445,
+    "longitude": -104.680556,
+    "note": "lon_flip (was 40.1194,104.6806)"
+  },
+  "CEN15LA066": {
+    "latitude": 36.931945,
+    "longitude": -93.280278,
+    "note": "lon_flip (was 36.9319,93.2803)"
+  },
+  "CEN15LA059": {
+    "latitude": 32.0,
+    "longitude": -106.0,
+    "note": "lon_flip (was 32.0,106.0)"
+  },
+  "CEN15LA053": {
+    "latitude": 29.336944,
+    "longitude": -98.471111,
+    "note": "lon_flip (was 29.3369,98.4711)"
+  },
+  "CEN15FA048": {
+    "latitude": 41.774445,
+    "longitude": -87.738055,
+    "note": "lon_flip (was 41.7744,87.7381)"
+  },
+  "CEN15CA074": {
+    "latitude": 45.16,
+    "longitude": -93.84,
+    "note": "lon_flip (was 45.16,93.84)"
+  },
+  "ERA15CA048": {
+    "latitude": 35.033334,
+    "longitude": -82.033334,
+    "note": "lon_flip (was 35.0333,82.0333)"
+  },
+  "CEN15LA028": {
+    "latitude": 39.133334,
+    "longitude": -89.941944,
+    "note": "lon_flip (was 39.1333,89.9419)"
+  },
+  "ERA15CA033": {
+    "latitude": 28.0,
+    "longitude": -81.0,
+    "note": "lon_flip (was 28.0,81.0)"
+  },
+  "WPR15CA028": {
+    "latitude": 35.922778,
+    "longitude": -118.335,
+    "note": "lon_flip (was 35.9228,118.335)"
+  },
+  "WPR15CA018": {
+    "latitude": 34.571111,
+    "longitude": -114.358333,
+    "note": "lon_flip (was 34.5711,114.3583)"
+  },
+  "CEN15TA035": {
+    "latitude": 26.595833,
+    "longitude": -98.625556,
+    "note": "lon_flip (was 26.5958,98.6256)"
+  },
+  "WPR15CA017": {
+    "latitude": 43.131667,
+    "longitude": -115.730556,
+    "note": "lon_flip (was 43.1317,115.7306)"
+  },
+  "CEN15LA021": {
+    "latitude": 41.838889,
+    "longitude": -89.479445,
+    "note": "lon_flip (was 41.8389,89.4794)"
+  },
+  "CEN15CA005": {
+    "latitude": 32.565,
+    "longitude": -97.308056,
+    "note": "lon_flip (was 32.565,97.3081)"
+  },
+  "CEN14LA526": {
+    "latitude": 35.006389,
+    "longitude": -99.024445,
+    "note": "lon_flip (was 35.0064,99.0244)"
+  },
+  "WPR14CA392": {
+    "latitude": 40.831111,
+    "longitude": -115.786666,
+    "note": "lon_flip (was 40.8311,115.7867)"
+  },
+  "CEN14LA508": {
+    "latitude": 30.086944,
+    "longitude": -90.582778,
+    "note": "lon_flip (was 30.0869,90.5828)"
+  },
+  "CEN14LA517": {
+    "latitude": 38.0,
+    "longitude": -90.0,
+    "note": "lon_flip (was 38.0,90.0)"
+  },
+  "ERA14LA434": {
+    "latitude": 29.066667,
+    "longitude": -81.05,
+    "note": "lon_flip (was 29.0667,81.05)"
+  },
+  "ANC14CA081": {
+    "latitude": 62.19,
+    "longitude": -150.05,
+    "note": "lon_flip (was 62.19,150.05)"
+  },
+  "CEN14LA492": {
+    "latitude": 46.32,
+    "longitude": -84.1,
+    "note": "lon_flip (was 46.32,84.1)"
+  },
+  "ERA14LA415": {
+    "latitude": 37.560556,
+    "longitude": -74.426667,
+    "note": "lon_flip (was 37.5606,74.4267)"
+  },
+  "WPR14LA356": {
+    "latitude": 38.319445,
+    "longitude": -119.695,
+    "note": "lon_flip (was 38.3194,119.695)"
+  },
+  "CEN14LA458": {
+    "latitude": 29.49,
+    "longitude": -95.4,
+    "note": "lon_flip (was 29.49,95.4)"
+  },
+  "CEN14LA456": {
+    "latitude": 41.5,
+    "longitude": -84.766667,
+    "note": "lon_flip (was 41.5,84.7667)"
+  },
+  "ERA14LA391": {
+    "latitude": 33.186666,
+    "longitude": -86.308333,
+    "note": "lon_flip (was 33.1867,86.3083)"
+  },
+  "ERA14CA413": {
+    "latitude": 35.041111,
+    "longitude": -83.817223,
+    "note": "lon_flip (was 35.0411,83.8172)"
+  },
+  "WPR14CA351": {
+    "latitude": 34.442777,
+    "longitude": -120.075278,
+    "note": "lon_flip (was 34.4428,120.0753)"
+  },
+  "CEN14WA531": {
+    "latitude": 44.713333,
+    "longitude": -66.796944,
+    "note": "lon_flip (was 44.7133,66.7969)"
+  },
+  "CEN14LA480": {
+    "latitude": 30.866945,
+    "longitude": -96.706944,
+    "note": "lon_flip (was 30.8669,96.7069)"
+  },
+  "ANC14CA066": {
+    "latitude": 61.883334,
+    "longitude": -151.396666,
+    "note": "lat_flip (was -61.8833,-151.3967)"
+  },
+  "CEN14LA432": {
+    "latitude": 31.867223,
+    "longitude": -107.635833,
+    "note": "lon_flip (was 31.8672,107.6358)"
+  },
+  "CEN14WA538": {
+    "latitude": 63.971111,
+    "longitude": -21.181945,
+    "note": "lon_flip (was 63.9711,21.1819)"
+  },
+  "CEN14LA412": {
+    "latitude": 43.961944,
+    "longitude": -90.58,
+    "note": "lon_flip (was 43.9619,90.58)"
+  },
+  "CEN14CA409": {
+    "latitude": 30.2,
+    "longitude": -96.18,
+    "note": "lon_flip (was 30.2,96.18)"
+  },
+  "WPR14CA326": {
+    "latitude": 45.179167,
+    "longitude": -123.197777,
+    "note": "lon_flip (was 45.1792,123.1978)"
+  },
+  "ERA14FA372": {
+    "latitude": 43.183334,
+    "longitude": -73.633056,
+    "note": "lon_flip (was 43.1833,73.6331)"
+  },
+  "CEN14LA411": {
+    "latitude": 44.218889,
+    "longitude": -93.568056,
+    "note": "lon_flip (was 44.2189,93.5681)"
+  },
+  "ERA14CA373": {
+    "latitude": 35.765,
+    "longitude": -80.953889,
+    "note": "lon_flip (was 35.765,80.9539)"
+  },
+  "CEN14CA405": {
+    "latitude": 30.0,
+    "longitude": -92.0,
+    "note": "lon_flip (was 30.0,92.0)"
+  },
+  "WPR14CA328": {
+    "latitude": 37.511944,
+    "longitude": -122.249444,
+    "note": "lon_flip (was 37.5119,122.2494)"
+  },
+  "ANC14LA056": {
+    "latitude": 59.044722,
+    "longitude": -158.505556,
+    "note": "lon_flip (was 59.0447,158.5056)"
+  },
+  "CEN14FA389": {
+    "latitude": 41.1075,
+    "longitude": -83.598333,
+    "note": "lon_flip (was 41.1075,83.5983)"
+  },
+  "WPR14CA314": {
+    "latitude": 45.27,
+    "longitude": -115.88,
+    "note": "lon_flip (was 45.27,115.88)"
+  },
+  "CEN14LA390": {
+    "latitude": 40.44,
+    "longitude": -96.32,
+    "note": "lon_flip (was 40.44,96.32)"
+  },
+  "WPR14CA306": {
+    "latitude": 48.4,
+    "longitude": -122.366667,
+    "note": "lon_flip (was 48.4,122.3667)"
+  },
+  "CEN14LA385": {
+    "latitude": 33.0,
+    "longitude": -98.0,
+    "note": "lon_flip (was 33.0,98.0)"
+  },
+  "CEN14LA417": {
+    "latitude": 46.271389,
+    "longitude": -92.594444,
+    "note": "lon_flip (was 46.2714,92.5944)"
+  },
+  "CEN14CA383": {
+    "latitude": 38.0,
+    "longitude": -90.0,
+    "note": "lon_flip (was 38.0,90.0)"
+  },
+  "ERA14CA354": {
+    "latitude": 39.708889,
+    "longitude": -77.726945,
+    "note": "lon_flip (was 39.7089,77.7269)"
+  },
+  "WPR14CA293": {
+    "latitude": 39.177223,
+    "longitude": -121.531667,
+    "note": "lon_flip (was 39.1772,121.5317)"
+  },
+  "CEN14LA372": {
+    "latitude": 29.611111,
+    "longitude": -96.027778,
+    "note": "lon_flip (was 29.6111,96.0278)"
+  },
+  "WPR14CA289": {
+    "latitude": 33.269167,
+    "longitude": -111.811111,
+    "note": "lon_flip (was 33.2692,111.8111)"
+  },
+  "CEN14CA360": {
+    "latitude": 39.0,
+    "longitude": -104.0,
+    "note": "lon_flip (was 39.0,104.0)"
+  },
+  "CEN14CA353": {
+    "latitude": 35.061111,
+    "longitude": -106.191389,
+    "note": "lon_flip (was 35.0611,106.1914)"
+  },
+  "CEN14LA357": {
+    "latitude": 37.65,
+    "longitude": -97.433056,
+    "note": "lon_flip (was 37.65,97.4331)"
+  },
+  "ERA14FA328": {
+    "latitude": 37.5975,
+    "longitude": -76.443333,
+    "note": "lon_flip (was 37.5975,76.4433)"
+  },
+  "ERA14CA335": {
+    "latitude": 36.019167,
+    "longitude": -80.509722,
+    "note": "lon_flip (was 36.0192,80.5097)"
+  },
+  "ERA14LA332": {
+    "latitude": 31.596944,
+    "longitude": -89.869723,
+    "note": "lon_flip (was 31.5969,89.8697)"
+  },
+  "CEN14CA365": {
+    "latitude": 41.0,
+    "longitude": -90.0,
+    "note": "lon_flip (was 41.0,90.0)"
+  },
+  "CEN14FA328": {
+    "latitude": 39.675834,
+    "longitude": -105.875278,
+    "note": "lon_flip (was 39.6758,105.8753)"
+  },
+  "CEN14LA327": {
+    "latitude": 39.0,
+    "longitude": -86.0,
+    "note": "lon_flip (was 39.0,86.0)"
+  },
+  "CEN14LA319": {
+    "latitude": 35.044722,
+    "longitude": -98.2325,
+    "note": "lon_flip (was 35.0447,98.2325)"
+  },
+  "CEN14FA306": {
+    "latitude": 45.609444,
+    "longitude": -94.166111,
+    "note": "lon_flip (was 45.6094,94.1661)"
+  },
+  "CEN14LA313": {
+    "latitude": 38.901944,
+    "longitude": -90.960278,
+    "note": "lon_flip (was 38.9019,90.9603)"
+  },
+  "CEN14LA308": {
+    "latitude": 36.171945,
+    "longitude": -90.619167,
+    "note": "lon_flip (was 36.1719,90.6192)"
+  },
+  "CEN14CA318": {
+    "latitude": 39.701667,
+    "longitude": -106.676667,
+    "note": "lon_flip (was 39.7017,106.6767)"
+  },
+  "CEN14CA295": {
+    "latitude": 28.0,
+    "longitude": -98.0,
+    "note": "lon_flip (was 28.0,98.0)"
+  },
+  "CEN14CA302": {
+    "latitude": 42.0,
+    "longitude": -99.44,
+    "note": "lon_flip (was 42.0,99.44)"
+  },
+  "ERA14CA307": {
+    "latitude": 34.268056,
+    "longitude": -88.768611,
+    "note": "lon_flip (was 34.2681,88.7686)"
+  },
+  "CEN14LA287": {
+    "latitude": 28.822223,
+    "longitude": -99.109444,
+    "note": "lon_flip (was 28.8222,99.1094)"
+  },
+  "WPR14CA223": {
+    "latitude": 48.733056,
+    "longitude": -122.351111,
+    "note": "lon_flip (was 48.7331,122.3511)"
+  },
+  "WPR14CA221": {
+    "latitude": 44.889166,
+    "longitude": -116.100833,
+    "note": "lon_flip (was 44.8892,116.1008)"
+  },
+  "ERA14CA276": {
+    "latitude": 35.486111,
+    "longitude": -84.931111,
+    "note": "lon_flip (was 35.4861,84.9311)"
+  },
+  "CEN14LA267": {
+    "latitude": 40.164444,
+    "longitude": -105.152778,
+    "note": "lon_flip (was 40.1644,105.1528)"
+  },
+  "ANC14LA034": {
+    "latitude": 64.0,
+    "longitude": -157.0,
+    "note": "lon_flip (was 64.0,157.0)"
+  },
+  "CEN14IA270": {
+    "latitude": 28.45,
+    "longitude": -91.41,
+    "note": "lon_flip (was 28.45,91.41)"
+  },
+  "CEN14CA274": {
+    "latitude": 40.0,
+    "longitude": -83.0,
+    "note": "lon_flip (was 40.0,83.0)"
+  },
+  "ANC14CA033": {
+    "latitude": 64.37,
+    "longitude": -148.43,
+    "note": "lon_flip (was 64.37,148.43)"
+  },
+  "WPR14CA224": {
+    "latitude": 32.446666,
+    "longitude": -111.002778,
+    "note": "lon_flip (was 32.4467,111.0028)"
+  },
+  "CEN14CA275": {
+    "latitude": 35.965556,
+    "longitude": -95.341944,
+    "note": "lon_flip (was 35.9656,95.3419)"
+  },
+  "WPR14CA215": {
+    "latitude": 38.143611,
+    "longitude": -122.556111,
+    "note": "lon_flip (was 38.1436,122.5561)"
+  },
+  "CEN14LA253": {
+    "latitude": 30.646111,
+    "longitude": -96.960833,
+    "note": "lon_flip (was 30.6461,96.9608)"
+  },
+  "ANC14CA029": {
+    "latitude": 61.106667,
+    "longitude": -149.864167,
+    "note": "lon_flip (was 61.1067,149.8642)"
+  },
+  "WPR14CA274": {
+    "latitude": 33.420556,
+    "longitude": -112.686111,
+    "note": "lon_flip (was 33.4206,112.6861)"
+  },
+  "ERA14CA239": {
+    "latitude": 34.521945,
+    "longitude": -85.436944,
+    "note": "lon_flip (was 34.5219,85.4369)"
+  },
+  "CEN14CA238": {
+    "latitude": 36.133334,
+    "longitude": -93.404444,
+    "note": "lon_flip (was 36.1333,93.4044)"
+  },
+  "WPR14CA184": {
+    "latitude": 33.489166,
+    "longitude": -117.367778,
+    "note": "lon_flip (was 33.4892,117.3678)"
+  },
+  "OPS14IA007": {
+    "latitude": 37.528611,
+    "longitude": -77.828334,
+    "note": "lon_flip (was 37.5286,77.8283)"
+  },
+  "ERA14CA214": {
+    "latitude": 31.883889,
+    "longitude": -82.641666,
+    "note": "lon_flip (was 31.8839,82.6417)"
+  },
+  "ERA14CA211": {
+    "latitude": 39.0,
+    "longitude": -74.0,
+    "note": "lon_flip (was 39.0,74.0)"
+  },
+  "CEN14LA228": {
+    "latitude": 40.611111,
+    "longitude": -83.413889,
+    "note": "lon_flip (was 40.6111,83.4139)"
+  },
+  "ERA14CA209": {
+    "latitude": 43.583334,
+    "longitude": -71.35,
+    "note": "lon_flip (was 43.5833,71.35)"
+  },
+  "WPR14LA169": {
+    "latitude": 35.005556,
+    "longitude": -114.565,
+    "note": "lon_flip (was 35.0056,114.565)"
+  },
+  "CEN14LA221": {
+    "latitude": 38.945555,
+    "longitude": -104.569723,
+    "note": "lon_flip (was 38.9456,104.5697)"
+  },
+  "ERA14CA203": {
+    "latitude": 43.201389,
+    "longitude": -71.501389,
+    "note": "lon_flip (was 43.2014,71.5014)"
+  },
+  "WPR14CA168": {
+    "latitude": 34.315556,
+    "longitude": -112.185555,
+    "note": "lon_flip (was 34.3156,112.1856)"
+  },
+  "ERA14CA200": {
+    "latitude": 33.406389,
+    "longitude": -80.288055,
+    "note": "lon_flip (was 33.4064,80.2881)"
+  },
+  "CEN14LA199": {
+    "latitude": 35.0,
+    "longitude": -94.0,
+    "note": "lon_flip (was 35.0,94.0)"
+  },
+  "CEN14LA192": {
+    "latitude": 33.923889,
+    "longitude": -102.386666,
+    "note": "lon_flip (was 33.9239,102.3867)"
+  },
+  "CEN14CA179": {
+    "latitude": 30.0,
+    "longitude": -97.0,
+    "note": "lon_flip (was 30.0,97.0)"
+  },
+  "ERA14CA177": {
+    "latitude": 32.812222,
+    "longitude": -85.840833,
+    "note": "lon_flip (was 32.8122,85.8408)"
+  },
+  "CEN14LA197": {
+    "latitude": 31.020278,
+    "longitude": -99.711667,
+    "note": "lon_flip (was 31.0203,99.7117)"
+  },
+  "CEN14CA170": {
+    "latitude": 31.2,
+    "longitude": -95.24,
+    "note": "lon_flip (was 31.2,95.24)"
+  },
+  "ERA14LA159": {
+    "latitude": 28.235,
+    "longitude": -82.153056,
+    "note": "lon_flip (was 28.235,82.1531)"
+  },
+  "WPR14CA138": {
+    "latitude": 34.374723,
+    "longitude": -117.693333,
+    "note": "lon_flip (was 34.3747,117.6933)"
+  },
+  "ERA14LA156": {
+    "latitude": 27.0,
+    "longitude": -80.0,
+    "note": "lon_flip (was 27.0,80.0)"
+  },
+  "ERA14CA134": {
+    "latitude": 30.0,
+    "longitude": -87.0,
+    "note": "lon_flip (was 30.0,87.0)"
+  },
+  "ERA14LA130": {
+    "latitude": 28.775278,
+    "longitude": -81.523889,
+    "note": "lon_flip (was 28.7753,81.5239)"
+  },
+  "CEN14LA148": {
+    "latitude": 38.0,
+    "longitude": -101.0,
+    "note": "lon_flip (was 38.0,101.0)"
+  },
+  "WPR14CA116": {
+    "latitude": 33.526945,
+    "longitude": -112.295277,
+    "note": "lon_flip (was 33.5269,112.2953)"
+  },
+  "CEN14LA138": {
+    "latitude": 42.029723,
+    "longitude": -91.531667,
+    "note": "lon_flip (was 42.0297,91.5317)"
+  },
+  "ERA14CA143": {
+    "latitude": 28.003889,
+    "longitude": -81.486389,
+    "note": "lon_flip (was 28.0039,81.4864)"
+  },
+  "ERA14CA121": {
+    "latitude": 27.4975,
+    "longitude": -80.372778,
+    "note": "lon_flip (was 27.4975,80.3728)"
+  },
+  "ERA14LA105": {
+    "latitude": 32.808889,
+    "longitude": -81.58,
+    "note": "lon_flip (was 32.8089,81.58)"
+  },
+  "ERA14CA104": {
+    "latitude": 35.428334,
+    "longitude": -81.935,
+    "note": "lon_flip (was 35.4283,81.935)"
+  },
+  "CEN14LA134": {
+    "latitude": 41.433334,
+    "longitude": -90.55,
+    "note": "lon_flip (was 41.4333,90.55)"
+  },
+  "CEN14LA118": {
+    "latitude": 32.757778,
+    "longitude": -97.797222,
+    "note": "lon_flip (was 32.7578,97.7972)"
+  },
+  "ERA14WA092": {
+    "latitude": 7.0,
+    "longitude": -75.0,
+    "note": "lon_flip (was 7.0,75.0)"
+  },
+  "CEN14CA106": {
+    "latitude": 37.0,
+    "longitude": -107.0,
+    "note": "lon_flip (was 37.0,107.0)"
+  },
+  "CEN14LA103": {
+    "latitude": 29.16,
+    "longitude": -89.21,
+    "note": "lon_flip (was 29.16,89.21)"
+  },
+  "ANC14CA014": {
+    "latitude": 65.451944,
+    "longitude": -165.147777,
+    "note": "lon_flip (was 65.4519,165.1478)"
+  },
+  "CEN14LA107": {
+    "latitude": 32.636666,
+    "longitude": -108.156389,
+    "note": "lon_flip (was 32.6367,108.1564)"
+  },
+  "ERA14LA083": {
+    "latitude": 33.235833,
+    "longitude": -86.828889,
+    "note": "lon_flip (was 33.2358,86.8289)"
+  },
+  "ERA14FA077": {
+    "latitude": 39.941944,
+    "longitude": -77.221111,
+    "note": "lon_flip (was 39.9419,77.2211)"
+  },
+  "CEN14LA087": {
+    "latitude": 29.0,
+    "longitude": -99.0,
+    "note": "lon_flip (was 29.0,99.0)"
+  },
+  "ERA14CA081": {
+    "latitude": 40.185277,
+    "longitude": -74.121389,
+    "note": "lon_flip (was 40.1853,74.1214)"
+  },
+  "CEN14LA086": {
+    "latitude": 44.451667,
+    "longitude": -83.394166,
+    "note": "lon_flip (was 44.4517,83.3942)"
+  },
+  "WPR14LA065": {
+    "latitude": 33.268889,
+    "longitude": -111.811111,
+    "note": "lon_flip (was 33.2689,111.8111)"
+  },
+  "WPR14CA064": {
+    "latitude": 37.506944,
+    "longitude": -122.209722,
+    "note": "lon_flip (was 37.5069,122.2097)"
+  },
+  "CEN14LA074": {
+    "latitude": 48.52,
+    "longitude": -99.12,
+    "note": "lon_flip (was 48.52,99.12)"
+  },
+  "CEN14FA071": {
+    "latitude": 38.811944,
+    "longitude": -108.030834,
+    "note": "lon_flip (was 38.8119,108.0308)"
+  },
+  "ERA14LA052": {
+    "latitude": 33.603333,
+    "longitude": -86.588889,
+    "note": "lon_flip (was 33.6033,86.5889)"
+  },
+  "CEN14FA072": {
+    "latitude": 40.05,
+    "longitude": -105.1,
+    "note": "lon_flip (was 40.05,105.1)"
+  },
+  "ANC14CA009": {
+    "latitude": 64.376667,
+    "longitude": -151.290833,
+    "note": "lon_flip (was 64.3767,151.2908)"
+  },
+  "CEN14FA064": {
+    "latitude": 38.579167,
+    "longitude": -107.529167,
+    "note": "lon_flip (was 38.5792,107.5292)"
+  },
+  "CEN14LA054": {
+    "latitude": 40.010278,
+    "longitude": -105.0,
+    "note": "lon_flip (was 40.0103,105.0)"
+  },
+  "ERA14CA039": {
+    "latitude": 39.500556,
+    "longitude": -76.406667,
+    "note": "lat_flip (was -39.5006,-76.4067)"
+  },
+  "ERA14LA034": {
+    "latitude": 29.148889,
+    "longitude": -81.299722,
+    "note": "lon_flip (was 29.1489,81.2997)"
+  },
+  "CEN14FA035": {
+    "latitude": 36.154167,
+    "longitude": -94.056944,
+    "note": "lon_flip (was 36.1542,94.0569)"
+  },
+  "CEN14LA065": {
+    "latitude": 33.663611,
+    "longitude": -101.820556,
+    "note": "lon_flip (was 33.6636,101.8206)"
+  },
+  "CEN14FA024": {
+    "latitude": 29.786666,
+    "longitude": -98.692777,
+    "note": "lon_flip (was 29.7867,98.6928)"
+  },
+  "CEN14LA022": {
+    "latitude": 33.214722,
+    "longitude": -94.775278,
+    "note": "lon_flip (was 33.2147,94.7753)"
+  },
+  "WPR14CA021": {
+    "latitude": 32.142222,
+    "longitude": -111.174723,
+    "note": "lon_flip (was 32.1422,111.1747)"
+  },
+  "WPR14CA020": {
+    "latitude": 38.9,
+    "longitude": -113.366667,
+    "note": "lon_flip (was 38.9,113.3667)"
+  },
+  "CEN14LA053": {
+    "latitude": 40.850833,
+    "longitude": -96.759167,
+    "note": "lon_flip (was 40.8508,96.7592)"
+  },
+  "CEN13LA565": {
+    "latitude": 35.55,
+    "longitude": -98.67,
+    "note": "lon_flip (was 35.55,98.67)"
+  },
+  "WPR13LA419": {
+    "latitude": 48.299444,
+    "longitude": -116.560278,
+    "note": "lon_flip (was 48.2994,116.5603)"
+  },
+  "WPR13CA426": {
+    "latitude": 34.740833,
+    "longitude": -118.218611,
+    "note": "lon_flip (was 34.7408,118.2186)"
+  },
+  "WPR13CA422": {
+    "latitude": 47.53,
+    "longitude": -112.301944,
+    "note": "lon_flip (was 47.53,112.3019)"
+  },
+  "WPR13CA418": {
+    "latitude": 48.148889,
+    "longitude": -111.766667,
+    "note": "lon_flip (was 48.1489,111.7667)"
+  },
+  "ERA13CA423": {
+    "latitude": 38.0,
+    "longitude": -75.0,
+    "note": "lon_flip (was 38.0,75.0)"
+  },
+  "WPR13LA416": {
+    "latitude": 43.513611,
+    "longitude": -112.070556,
+    "note": "lon_flip (was 43.5136,112.0706)"
+  },
+  "ERA13LA421": {
+    "latitude": 32.61,
+    "longitude": -81.875556,
+    "note": "lon_flip (was 32.61,81.8756)"
+  },
+  "CEN13IA563": {
+    "latitude": 30.194444,
+    "longitude": -97.669723,
+    "note": "lon_flip (was 30.1944,97.6697)"
+  },
+  "ANC13FA095": {
+    "latitude": 61.593889,
+    "longitude": -149.885277,
+    "note": "lon_flip (was 61.5939,149.8853)"
+  },
+  "CEN13LA533": {
+    "latitude": 41.401389,
+    "longitude": -95.010833,
+    "note": "lon_flip (was 41.4014,95.0108)"
+  },
+  "ERA13CA394": {
+    "latitude": 40.801111,
+    "longitude": -80.156389,
+    "note": "lon_flip (was 40.8011,80.1564)"
+  },
+  "CEN13LA531": {
+    "latitude": 33.636666,
+    "longitude": -95.450833,
+    "note": "lon_flip (was 33.6367,95.4508)"
+  },
+  "CEN13LA523": {
+    "latitude": 33.822223,
+    "longitude": -98.598333,
+    "note": "lon_flip (was 33.8222,98.5983)"
+  },
+  "WPR13LA384": {
+    "latitude": 38.5,
+    "longitude": -121.5,
+    "note": "lon_flip (was 38.5,121.5)"
+  },
+  "CEN13FA496": {
+    "latitude": 39.111944,
+    "longitude": -94.36,
+    "note": "lon_flip (was 39.1119,94.36)"
+  },
+  "CEN13CA575": {
+    "latitude": 38.955556,
+    "longitude": -94.369445,
+    "note": "lon_flip (was 38.9556,94.3694)"
+  },
+  "CEN13LA472": {
+    "latitude": 30.983611,
+    "longitude": -91.8125,
+    "note": "lon_flip (was 30.9836,91.8125)"
+  },
+  "CEN13LA448": {
+    "latitude": 42.4,
+    "longitude": -88.785833,
+    "note": "lon_flip (was 42.4,88.7858)"
+  },
+  "CEN13FA432": {
+    "latitude": 35.190555,
+    "longitude": -101.823334,
+    "note": "lon_flip (was 35.1906,101.8233)"
+  },
+  "CEN13FA420": {
+    "latitude": 32.651944,
+    "longitude": -91.916945,
+    "note": "lon_flip (was 32.6519,91.9169)"
+  },
+  "ERA13LA323": {
+    "latitude": 35.054444,
+    "longitude": -89.682223,
+    "note": "lon_flip (was 35.0544,89.6822)"
+  },
+  "CEN13LA422": {
+    "latitude": 45.0675,
+    "longitude": -84.824445,
+    "note": "lon_flip (was 45.0675,84.8244)"
+  },
+  "WPR13LA363": {
+    "latitude": 42.538889,
+    "longitude": -122.903889,
+    "note": "lon_flip (was 42.5389,122.9039)"
+  },
+  "CEN13LA402": {
+    "latitude": 33.7125,
+    "longitude": -91.461111,
+    "note": "lon_flip (was 33.7125,91.4611)"
+  },
+  "WPR13LA303": {
+    "latitude": 46.911944,
+    "longitude": -114.185277,
+    "note": "lon_flip (was 46.9119,114.1853)"
+  },
+  "CEN13LA396": {
+    "latitude": 38.096111,
+    "longitude": -92.548889,
+    "note": "lon_flip (was 38.0961,92.5489)"
+  },
+  "WPR13LA295": {
+    "latitude": 41.823611,
+    "longitude": -112.057778,
+    "note": "lon_flip (was 41.8236,112.0578)"
+  },
+  "CEN13LA365": {
+    "latitude": 42.778611,
+    "longitude": -84.586111,
+    "note": "lon_flip (was 42.7786,84.5861)"
+  },
+  "ERA13WA290": {
+    "latitude": 42.034444,
+    "longitude": 8.15,
+    "note": "lon_flip (was 42.0344,-8.15)"
+  },
+  "CEN13IA285": {
+    "latitude": 33.4575,
+    "longitude": -96.499722,
+    "note": "lon_flip (was 33.4575,96.4997)"
+  },
+  "CEN13LA211": {
+    "latitude": 34.144444,
+    "longitude": -101.480834,
+    "note": "lon_flip (was 34.1444,101.4808)"
+  },
+  "ANC13LA033": {
+    "latitude": 61.055833,
+    "longitude": -151.230278,
+    "note": "lon_flip (was 61.0558,151.2303)"
+  },
+  "CEN13LA103": {
+    "latitude": 41.933889,
+    "longitude": -88.705556,
+    "note": "lon_flip (was 41.9339,88.7056)"
+  },
+  "CEN13FA085": {
+    "latitude": 39.323334,
+    "longitude": -85.516945,
+    "note": "lon_flip (was 39.3233,85.5169)"
+  },
+  "CEN13FA075": {
+    "latitude": 34.457778,
+    "longitude": -100.167778,
+    "note": "lon_flip (was 34.4578,100.1678)"
+  },
+  "WPR12LA439": {
+    "latitude": 44.008889,
+    "longitude": -123.31,
+    "note": "lon_flip (was 44.0089,123.31)"
+  },
+  "CEN12TA550": {
+    "latitude": 39.95,
+    "longitude": -82.983334,
+    "note": "lon_flip (was 39.95,82.9833)"
+  },
+  "WPR12LA281": {
+    "latitude": 36.923056,
+    "longitude": -121.798333,
+    "note": "lon_flip (was 36.9231,121.7983)"
+  },
+  "DCA12RA047": {
+    "latitude": 49.961111,
+    "longitude": 8.643611,
+    "note": "lon_flip (was 49.9611,-8.6436)"
+  },
+  "CEN12FA174": {
+    "latitude": 34.639444,
+    "longitude": -106.863889,
+    "note": "lon_flip (was 34.6394,106.8639)"
+  },
+  "CEN12LA124": {
+    "latitude": 31.389722,
+    "longitude": -100.493333,
+    "note": "lon_flip (was 31.3897,100.4933)"
+  },
+  "WPR11FA474": {
+    "latitude": 36.585833,
+    "longitude": -121.350556,
+    "note": "lon_flip (was 36.5858,121.3506)"
+  },
+  "CEN11FA629": {
+    "latitude": 40.25,
+    "longitude": -83.77,
+    "note": "lon_flip (was 40.25,83.77)"
+  },
+  "CEN11FA634": {
+    "latitude": 37.391944,
+    "longitude": -96.950556,
+    "note": "lon_flip (was 37.3919,96.9506)"
+  },
+  "CEN11FA559": {
+    "latitude": 40.037777,
+    "longitude": -105.208056,
+    "note": "lon_flip (was 40.0378,105.2081)"
+  },
+  "ERA11FA272": {
+    "latitude": 40.621111,
+    "longitude": -72.241111,
+    "note": "lon_flip (was 40.6211,72.2411)"
+  },
+  "ERA11WA215": {
+    "latitude": -35.55,
+    "longitude": -71.483333,
+    "note": "lat_flip (was 35.55,-71.4833)"
+  },
+  "CEN11CA224": {
+    "latitude": 34.145,
+    "longitude": -91.896666,
+    "note": "lon_flip (was 34.145,91.8967)"
+  },
+  "ERA11CA082": {
+    "latitude": 26.913611,
+    "longitude": -80.582223,
+    "note": "swap_bothneg (was 80.5822,-26.9136)"
+  },
+  "ERA11WA073": {
+    "latitude": -9.876667,
+    "longitude": -76.200556,
+    "note": "lat_flip (was 9.8767,-76.2006)"
+  },
+  "CEN11WA042": {
+    "latitude": 54.230278,
+    "longitude": -6.170834,
+    "note": "lon_flip (was 54.2303,6.1708)"
+  },
+  "ENG10WA048": {
+    "latitude": 37.616667,
+    "longitude": -122.366667,
+    "note": "lon_flip (was 37.6167,122.3667)"
+  },
+  "ERA10LA345B": {
+    "latitude": 39.756944,
+    "longitude": -77.351111,
+    "note": "swap_bothneg (was 77.3511,-39.7569)"
+  },
+  "ERA10LA345A": {
+    "latitude": 39.756944,
+    "longitude": -77.351111,
+    "note": "swap_bothneg (was 77.3511,-39.7569)"
+  },
+  "CEN09WA617": {
+    "latitude": 38.456944,
+    "longitude": 23.136389,
+    "note": "lon_flip (was 38.4569,-23.1364)"
+  },
+  "CEN09CA249": {
+    "latitude": 38.502222,
+    "longitude": -107.9,
+    "note": "lon_flip (was 38.5022,107.9)"
+  },
+  "DCA09FA022": {
+    "latitude": 33.94,
+    "longitude": -118.41,
+    "note": "lon_flip (was 33.94,118.41)"
+  },
+  "NYC08WA256": {
+    "latitude": -11.868889,
+    "longitude": -71.903611,
+    "note": "lat_flip (was 11.8689,-71.9036)"
+  },
+  "NYC08FA158": {
+    "latitude": 28.188611,
+    "longitude": -81.838333,
+    "note": "swap_bothneg (was 81.8383,-28.1886)"
+  },
+  "NYC08WA131": {
+    "latitude": -6.633333,
+    "longitude": -79.175834,
+    "note": "lat_flip (was 6.6333,-79.1758)"
+  },
+  "MIA08CA068": {
+    "latitude": 39.608056,
+    "longitude": -77.007222,
+    "note": "swap_bothneg (was 77.0072,-39.6081)"
+  },
+  "MIA08WA103": {
+    "latitude": 43.096944,
+    "longitude": 12.511389,
+    "note": "lon_flip (was 43.0969,-12.5114)"
+  },
+  "DCA08IA019": {
+    "latitude": 40.639722,
+    "longitude": -73.778889,
+    "note": "lon_flip (was 40.6397,73.7789)"
+  },
+  "DCA07WA042": {
+    "latitude": 58.876667,
+    "longitude": -5.638333,
+    "note": "lon_flip (was 58.8767,5.6383)"
+  },
+  "NYC06WA095": {
+    "latitude": 41.650556,
+    "longitude": 9.097777,
+    "note": "lon_flip (was 41.6506,-9.0978)"
+  },
+  "DFW05FA111": {
+    "latitude": 31.729445,
+    "longitude": -101.880834,
+    "note": "lon_flip (was 31.7294,101.8808)"
+  },
+  "LAX05CA123": {
+    "latitude": 33.269167,
+    "longitude": -111.818611,
+    "note": "lon_flip (was 33.2692,111.8186)"
+  },
+  "MIA05WA005": {
+    "latitude": -38.966667,
+    "longitude": -67.816667,
+    "note": "lat_flip (was 38.9667,-67.8167)"
+  },
+  "ATL04WA194": {
+    "latitude": 52.459167,
+    "longitude": 7.185833,
+    "note": "lon_flip (was 52.4592,-7.1858)"
+  },
+  "CHI04WA294": {
+    "latitude": 67.616667,
+    "longitude": 24.166667,
+    "note": "lon_flip (was 67.6167,-24.1667)"
+  },
+  "LAX04CA307": {
+    "latitude": 35.302222,
+    "longitude": -112.201111,
+    "note": "lon_flip (was 35.3022,112.2011)"
+  },
+  "MIA03LA004": {
+    "latitude": 34.268611,
+    "longitude": -86.858333,
+    "note": "lon_flip (was 34.2686,86.8583)"
+  },
+  "WAS02WA026": {
+    "latitude": -4.816667,
+    "longitude": -76.7,
+    "note": "lat_flip (was 4.8167,-76.7)"
+  },
+  "MIA02LA061": {
+    "latitude": 26.683333,
+    "longitude": -80.633333,
+    "note": "lon_flip (was 26.6833,80.6333)"
+  },
+  "CEN17WA245": {
+    "latitude": 47.399166,
+    "longitude": 11.943333,
+    "note": "manual: digit-drop 101.94->11.94 (Alpbach, Tyrol, Austria)"
+  },
+  "CEN10WA134": {
+    "latitude": 48.131667,
+    "longitude": 13.443333,
+    "note": "manual: lon sign-flip into Atlantic, +13.44 (Waldzell, Upper Austria)"
+  }
+}

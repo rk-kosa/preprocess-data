@@ -1,0 +1,41 @@
+line-length = 88
+target-version = "py313"
+
+[lint]
+select = [
+    "A",    # flake8-builtins
+    "B",    # flake8-bugbear
+    "C4",   # flake8-comprehensions
+    "C90",  # mccabe
+    "COM",  # flake8-commas
+    "D",    # pydocstyle
+    "E",    # pycodestyle/Error
+    "F",    # Pyflakes
+    "I",    # isort
+    "ISC",  # flake8-implicit-str-concat
+    "N",    # pep8-naming
+    "PL",   # Pylint
+    "PT",   # flake8-pytest-style
+    "RET",  # flake8-return
+    "S",    # flake8-bandit
+    "SIM",  # flake8-simplify
+    "TRY",  # tryceratops
+    "W",    # pycodestyle/Warning
+]
+
+ignore = [
+    "COM812",  # missing-trailing-comma, handled by ruff format
+    "D100",    # undocumented-public-module
+    "D104",    # undocumented-public-package
+    "ISC001",  # single-line-implicit-string-concatenation, handled by ruff format
+    "S104",    # hardcoded-bind-all-interfaces, not relevant here
+    "TRY003",  # raise-vanilla-args, too strict
+    "TRY400",  # error-instead-of-exception
+]
+
+flake8-builtins.builtins-strict-checking = false
+pydocstyle.convention = "pep257"
+isort.known-first-party = ["common", "steps"]
+
+[format]
+line-ending = "lf"

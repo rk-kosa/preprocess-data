@@ -1,0 +1,12 @@
+{
+  "CEN17WA245": {
+    "latitude": 47.399166,
+    "longitude": 11.943333,
+    "note": "manual: digit-drop 101.94->11.94 (Alpbach, Tyrol, Austria)"
+  },
+  "CEN10WA134": {
+    "latitude": 48.131667,
+    "longitude": 13.443333,
+    "note": "manual: lon sign-flip into Atlantic, +13.44 (Waldzell, Upper Austria)"
+  }
+}
